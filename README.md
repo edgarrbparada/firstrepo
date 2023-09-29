@@ -6,6 +6,6 @@ My first repository
   2 ois
   
 ## END
-oi  oi~Xd 
+oi  oi
 XD
 
